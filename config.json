@@ -1,0 +1,5 @@
+{
+    "project_path": "./project",
+    "github_repo": "your_github_repo_url",
+    "commit_message_format": "Version + 时间戳"
+}
